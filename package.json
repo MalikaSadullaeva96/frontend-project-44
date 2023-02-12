@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "brain games",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikaSadullaeva96/frontend-project-44.git"
+  },
+  "author": "Malika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalikaSadullaeva96/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/MalikaSadullaeva96/frontend-project-44#readme",
+  "dependencies": {
+    "ci": "^2.2.0"
+  }
+}
