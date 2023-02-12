@@ -9,6 +9,7 @@
   },
   "repository": {
     "type": "git",
+    "type": "module",
     "url": "git+https://github.com/MalikaSadullaeva96/frontend-project-44.git"
   },
   "author": "Malika",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/MalikaSadullaeva96/frontend-project-44#readme",
   "dependencies": {
-    "ci": "^2.2.0"
+    "ci": "^2.2.0",
+    "readline-sync": "^1.4.10"
   }
 }
